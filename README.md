@@ -1,7 +1,7 @@
 # #ghost / #euler Code Club
 
 ## Project Euler (Weekly)
-[Project Euler Ex-003 – Sunday January 18th](https://projecteuler.net/problem=3)
+[Project Euler Ex-004 – Sunday January 25th](https://projecteuler.net/problem=4)
 
 [Sign-up](https://gist.github.com/deadghost/6306c6cb81e43b07d354)
 
